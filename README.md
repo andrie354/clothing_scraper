@@ -1,2 +1,2 @@
-# sneakers_scraper
-men and women sneaker shoes
+# clothing_scraper
+men and women clothing scraping through its API using Python and Insomnia
